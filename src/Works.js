@@ -65,7 +65,7 @@ function Works() {
             name: "Valor Exchange",
             description: "A P to p crypto trading application ",
             role: "Backend Developer",
-            link: "https://valorexchange.com",
+            link: "https://valorex-staging.vercel.app",
             tech_used: "Node Js, Express Js, MongoDB, Agenda Schdular, Next Js, Web Socket",
             img: valor
         }
