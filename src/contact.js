@@ -82,29 +82,34 @@ function Contact() {
                                     <h4 className=" main-h5">Socials</h4>
                                     <div className="mt-3 d-flex flex-wrap">
                                         <Link to={{ pathname: "https://www.linkedin.com/in/opeoluwa-siyanbola-a8a888166" }} target="_blank" style={{ textDecoration: "none" }}>
-                                            <div style={{ width: 50, height: 50, marginRight: 10 }} className="menu-btn mb-3 ">
+                                            <motion.div variants={buttonVariants}
+                                                whileHover="hover" style={{ width: 50, height: 50, marginRight: 10 }} className="menu-btn mb-3 ">
                                                 <i class="fa fa-linkedin" style={{ color: "#fff", fontSize: 17 }} aria-hidden="true"></i>
-                                            </div>
+                                            </motion.div>
                                         </Link>
                                         <Link to={{ pathname: "https://www.github.com/criotech" }} target="_blank" style={{ textDecoration: "none" }}>
-                                            <div style={{ width: 50, height: 50, marginRight: 10 }} className="menu-btn mb-3 ">
+                                            <motion.div variants={buttonVariants}
+                                                whileHover="hover" style={{ width: 50, height: 50, marginRight: 10 }} className="menu-btn mb-3 ">
                                                 <i class="fa fa-github" style={{ color: "#fff", fontSize: 17 }} aria-hidden="true"></i>
-                                            </div>
+                                            </motion.div>
                                         </Link>
                                         <Link to={{ pathname: "https://www.youtube.com/channel/UCFsEdF6-ScTeQxb7RoiIlWw" }} target="_blank" style={{ textDecoration: "none" }}>
-                                            <div style={{ width: 50, height: 50, marginRight: 10 }} className="menu-btn mb-3 ">
+                                            <motion.div variants={buttonVariants}
+                                                whileHover="hover" style={{ width: 50, height: 50, marginRight: 10 }} className="menu-btn mb-3 ">
                                                 <i class="fa fa-youtube" style={{ color: "#fff", fontSize: 17 }} aria-hidden="true"></i>
-                                            </div>
+                                            </motion.div>
                                         </Link>
                                         <Link to={{ pathname: "https://www.twitter.com/oluwacode_" }} target="_blank" style={{ textDecoration: "none" }}>
-                                            <div style={{ width: 50, height: 50, marginRight: 10 }} className="menu-btn mb-3 ">
+                                            <motion.div variants={buttonVariants}
+                                                whileHover="hover" style={{ width: 50, height: 50, marginRight: 10 }} className="menu-btn mb-3 ">
                                                 <i class="fa fa-twitter" style={{ color: "#fff", fontSize: 17 }} aria-hidden="true"></i>
-                                            </div>
+                                            </motion.div>
                                         </Link>
                                         <Link to={{ pathname: "https://hashnode.com/@oluwacode" }} target="_blank" style={{ textDecoration: "none" }}>
-                                            <div style={{ width: 50, height: 50, marginRight: 10 }} className="menu-btn mb-3 ">
+                                            <motion.div variants={buttonVariants}
+                                                whileHover="hover" style={{ width: 50, height: 50, marginRight: 10 }} className="menu-btn mb-3 ">
                                                 <i class="fa fa-pencil-square-o" style={{ color: "#fff", fontSize: 17 }} aria-hidden="true"></i>
-                                            </div>
+                                            </motion.div>
                                         </Link>
 
 
