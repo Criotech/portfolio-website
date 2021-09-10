@@ -57,7 +57,7 @@ function Works() {
             name: "Rch Me",
             description: "R'ch Me™ is a digital business card that helps you share your information instantly - without carrying a stack of cards around make use of a Near Field Communication Technology(NFC). Also entials and ecoommerce, and an affiliate marketing system",
             role: "Backend Developer",
-            link: "https://rchme.com",
+            link: "https://rchme.co",
             tech_used: "Node Js, Express Js, MongoDB, Agenda Schdular, React Js",
             img: rchme
         },
