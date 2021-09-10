@@ -64,7 +64,7 @@ function Home() {
             <div className="row main-row main-content">
               <div className="col-md-6 col-sm-12 main-col">
                 <p className="small-p">Hello, I'm</p>
-                <h1 className="main-h1 mt-1 mb-2">Siyanbola Opeoluwa</h1>
+                <h1 className="main-h1 mt-1 mb-2">Opeoluwa Siyanbola</h1>
                 <p className="main-p">Software Developer</p>
                 <div style={{ marginTop: 10 }} className="d-flex toColum">
 
