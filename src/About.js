@@ -37,7 +37,7 @@ function About() {
         }
     }
 
-    
+
 
     return (
         <motion.main
@@ -123,10 +123,18 @@ function About() {
                                                     <li>
                                                         <p>Nov, 2020 - present</p>
                                                         <p style={{ color: "#22c0e8" }}> <span style={{ fontWeight: "700" }}>Startupia LLC</span> - Software Developer</p>
-                                                        <p>1. Implemented new features and bug fixes using industry-standard patterns and practices to
-                                                            ensure a working frontend application. <br />
-                                                            2. Created a design system to ensure reusability of components site-wide and also allow for
-                                                            seamless updates using storybook </p>
+                                                        <p>.Built the backend of an agro matching application for retailers and suppliers to meet and trade
+                                                            • Built a P2P cryptocurrency trading platform with a unique feature that allows bidding.
+                                                           <br/> • Integrated payment channels across various platforms with a unified dashboard to manage transactions
+                                                           <br/>• Developed a fundraising & aspirations platform that supports blockchain and crypto currency funding
+                                                           <br/> • Integrated Mono Technologies software into the fundraising platform to achieve user KYC and banking
+                                                            information verification
+                                                            <br/> • Developed a re-usable multi wallet system that supports cryptocurrency and fiat currency.
+                                                            <br/>• Developed a credit rating, classification and matching system that organises and assigns a credit rating
+                                                            and classification to users of a given platform, this classification can be used to enforce limitations and
+                                                            user trust worthiness for FinTech applications.
+                                                            <br/> • Developed a custom eCommerce marketplace platform on React and Node.js.
+                                                        </p>
                                                     </li>
                                                     <li>
                                                         <p>Nov, 2008 - July, 2014</p>
